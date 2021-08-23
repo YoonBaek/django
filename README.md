@@ -1,6 +1,6 @@
-# Django archive
+# Django practice
 
-장고 공부를 하면서 여러가지 코드를 정리하는 곳
+장고 튜토리얼 따라가기
 
 ## Reference
 
