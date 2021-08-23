@@ -2,6 +2,9 @@
 
 장고 튜토리얼 따라가기
 
+## Day to Day
+ver 1.00 08/24 polls 페이지 업데이트
+
 ## Reference
 
 https://docs.djangoproject.com/ko/3.2/
