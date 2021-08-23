@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: ISSUE TEMPLATE
+about: Custom issue template
 title: 'doc: edit README.md'
 labels: ''
 assignees: YoonBaek
