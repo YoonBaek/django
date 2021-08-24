@@ -1,2 +1,8 @@
 # secret key
 mysite/mysite/settings.py
+
+# misc
+*/__pycache__
+
+# git
+.gitignore
